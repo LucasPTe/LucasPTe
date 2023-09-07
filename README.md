@@ -1,4 +1,4 @@
-<h2>Olá você!! Me chamo Lucas Lopes, desenvolvedor de software e apaixonado por tecnologia!</h2>
+<h2>Oi! Me chamo Lucas Lopes, sou desenvolvedor de software e eternno aluno.</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?LucasPTe=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
