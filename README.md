@@ -1,3 +1,7 @@
+<h1>Olá você!! Me chamo Lucas Lopes!</h1>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?LucasPTe=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Olá, me chamo Lucas!
 - 👀 Tenho muito interesse ná area de desenvolvimento de software.
 - 🌱 No momento estou buscando aprender Java e Python
