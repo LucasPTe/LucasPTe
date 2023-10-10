@@ -1,6 +1,6 @@
 <h2>Oi! Me chamo Lucas Lopes, sou desenvolvedor de software e eterno aluno.</h2>
 
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?LucasPTe=tws
+[![Linkedin]https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/lucas-lopes-214528228/)
 
 - 👋 Olá, me chamo Lucas!
 - 👀 Tenho muito interesse ná area de desenvolvimento de software.
