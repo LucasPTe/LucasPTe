@@ -12,7 +12,7 @@
       <img alt="" src="https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=javascript&logoColor=yellow">
       <img alt="" src="https://img.shields.io/badge/html5-100000?style=for-the-badge&logo=html5&logoColor=orange">
       <img alt="" src="https://img.shields.io/badge/bootstrap-100000?style=for-the-badge&logo=bootstrap&logoColor=blue">
-      <img alt="" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+      <img alt="" src="https://img.shields.io/badge/Visual%20Studio%20Code-100000?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     </div>
     <hr height="1">
   </div>
