@@ -10,7 +10,7 @@
       <img alt="Git" src="https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git">
       <img alt="GitHub" src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github">
       <img alt="" src="https://img.shields.io/badge/obsidian-100000?style=for-the-badge&logo=obsidian&logoColor=purple">
-      <img alt="" src="https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=javascript&logoColor=white">
+      <img alt="" src="https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=javascript&logoColor=yellow">
     </div>
     <hr height="1">
   </div>
