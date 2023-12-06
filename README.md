@@ -11,7 +11,7 @@
       <img alt="" src="https://img.shields.io/badge/obsidian-100000?style=for-the-badge&logo=obsidian&logoColor=purple">
       <img alt="" src="https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=javascript&logoColor=yellow">
       <img alt="" src="https://img.shields.io/badge/html5-100000?style=for-the-badge&logo=html5&logoColor=orange">
-      <img alt="" src="https://img.shields.io/badge/css-100000?style=for-the-badge&logo=csst&logoColor=blue">
+      <img alt="" src="https://img.shields.io/badge/bootstrap-100000?style=for-the-badge&logo=bootstrapt&logoColor=blue">
     </div>
     <hr height="1">
   </div>
