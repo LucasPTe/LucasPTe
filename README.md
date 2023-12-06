@@ -3,7 +3,6 @@
 - :computer: Analysis and Systems Development Student
 
 # Tecnologies
-  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYno5aGdyanp3b28xMm51aG8ydnh6a3ZiYWZudGw0dmw3a2hscDA5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vfTnz2QVJ1ip2/giphy.gif">
   <div align="left">
     <div>
       <img alt="Windows" src="https://img.shields.io/badge/windows-100000?style=for-the-badge&logo=windows">
