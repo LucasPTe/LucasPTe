@@ -2,10 +2,6 @@
 
 - :computer: Analysis and Systems Development Student
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasPTe&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasPTe&size_weight=0.5&count_weight=0.5)
-
 # Tecnologies
   <div align="left">
     <div>
@@ -20,3 +16,8 @@
     </div>
     <hr height="1">
   </div>
+
+
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasPTe&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasPTe&size_weight=0.5&count_weight=0.5)
