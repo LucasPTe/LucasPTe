@@ -1,6 +1,13 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7D1B90&random=false&width=435&lines=Hi!+I'm+Lucas!;i'm+studying+to+be+a+back-end+developer%2C;and+a+computer+science+lover." alt="Typing SVG" /></a>
+<h1>Olá, me chamo Lucas!</h1>
 
-- :computer: Analysis and Systems Development Student
+- Estudante de Análise e Desenvolvimento de Sistemas
+- Estudando com foco de me tornar desenvolvedor.
+
+<h2>Projetos: </h2>
+
+Telecall - Site utilizando HTML, CSS, JavaScript. Feito uso de Bootstrap para responsividade, LocalStorage para criação de cadastro e login com JS.
+
+BuscaMed (Projeto-Back-End) - Projeto utilizando PHP e MySQL. Uso da API do Correios para buscar cep, e uso da Google Maps API para calcular quilometragem dos médicos. 
 
 # Tecnologies
   <div align="left">
