@@ -23,7 +23,3 @@ BuscaMed (Projeto-Back-End) - Projeto utilizando PHP e MySQL. Uso da API do Corr
     <hr height="1">
   </div>
 
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasPTe&size_weight=0.5&count_weight=0.5)
