@@ -12,7 +12,6 @@ BuscaMed (Projeto-Back-End) - Projeto utilizando PHP e MySQL. Uso da API do Corr
 # Tecnologies
   <div align="left">
     <div>
-      <img alt="Windows" src="https://img.shields.io/badge/windows-100000?style=for-the-badge&logo=windows">
       <img alt="Git" src="https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git">
       <img alt="GitHub" src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github">
       <img alt="" src="https://img.shields.io/badge/obsidian-100000?style=for-the-badge&logo=obsidian&logoColor=purple">
@@ -20,7 +19,6 @@ BuscaMed (Projeto-Back-End) - Projeto utilizando PHP e MySQL. Uso da API do Corr
       <img alt="" src="https://img.shields.io/badge/html5-100000?style=for-the-badge&logo=html5&logoColor=orange">
       <img alt="" src="https://img.shields.io/badge/bootstrap-100000?style=for-the-badge&logo=bootstrap&logoColor=blue">
       <img alt="" src="https://img.shields.io/badge/php-100000?style=for-the-badge&logo=php&logoColor=purple">
-      <img alt="" src="https://img.shields.io/badge/Visual%20Studio%20Code-100000?style=for-the-badge&logo=visual-studio-code&logoColor=blue">
     </div>
     <hr height="1">
   </div>
