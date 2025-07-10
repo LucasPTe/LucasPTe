@@ -37,15 +37,13 @@ Ionic · Angular · TypeScript · HTML · CSS · Firebase
 
 # Tecnologies
 <div align="left">
-  <img alt="Python" src="https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=yellow">
+  <img alt="Python" src="https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue">
   <img alt="Django" src="https://img.shields.io/badge/django-100000?style=for-the-badge&logo=django&logoColor=green">
   <img alt="Streamlit" src="https://img.shields.io/badge/streamlit-100000?style=for-the-badge&logo=streamlit&logoColor=ff4b4b">
   <img alt="PHP" src="https://img.shields.io/badge/php-100000?style=for-the-badge&logo=php&logoColor=purple">
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-100000?style=for-the-badge&logo=mysql&logoColor=blue">
   <img alt="SQLite" src="https://img.shields.io/badge/sqlite-100000?style=for-the-badge&logo=sqlite&logoColor=003B57">
   <img alt="HTML5" src="https://img.shields.io/badge/html5-100000?style=for-the-badge&logo=html5&logoColor=orange">
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue">
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=javascript&logoColor=yellow">
   <img alt="Ionic" src="https://img.shields.io/badge/ionic-100000?style=for-the-badge&logo=ionic&logoColor=white">
   <img alt="Angular" src="https://img.shields.io/badge/angular-100000?style=for-the-badge&logo=angular&logoColor=red">
   <img alt="Git" src="https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git&logoColor=orange">
