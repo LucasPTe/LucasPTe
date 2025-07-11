@@ -1,7 +1,8 @@
 <h1>Olá, me chamo Lucas!</h1>
 
-- Estudante de Análise e Desenvolvimento de Sistemas
-- Estudando com foco de me tornar desenvolvedor.
+ - Sou estudante de **Análise e Desenvolvimento de Sistemas** e atualmente atuo como **Estagiário de TI**. Tenho experiência prática em **desenvolvimento back-end com Python e Django**, **automação de processos**, **infraestrutura de TI** e **suporte técnico**.  
+
+ - Gosto de criar soluções eficientes para problemas reais, com foco em **backend** e **análise de dados**, sempre buscando aprender novas tecnologias e me desafiar.
 
 <h2>Projetos: </h2>
 
