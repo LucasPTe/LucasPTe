@@ -4,39 +4,24 @@
 
  - Gosto de criar soluções eficientes para problemas reais, com foco em **backend** e **análise de dados**, sempre buscando aprender novas tecnologias e me desafiar.
 
-<h2>Projetos: </h2>
+## 📂 Meus Projetos
 
-🔹 QualityWeb (ERP Interno)
-Sistema ERP desenvolvido com Django para controle interno de estoque, RH e chamados. Projeto ativo no Grupo Quality Ambiental.
+### 🔹 [QualityWeb](https://github.com/#)  
+ERP interno para controle de estoque, RH e chamados, desenvolvido com **Python, Django** e banco de dados relacional. Projeto ativo e utilizado internamente no Grupo Quality Ambiental.
 
-🔹 Gerador de QR Code
-Projeto com Python + Streamlit que permite gerar e baixar QR Codes de forma rápida e prática.
+### 🔹 [BuscaMed](https://github.com/LucasPTe/buscamed)  
+Sistema web em **PHP** para busca de médicos por proximidade e especialidade, integrando a **API do Google Maps** para geolocalização e rotas. O usuário pode visualizar médicos próximos a partir de sua localização, filtrar por especialidade e obter rotas até o consultório.
 
-🔹 BuscaMed
-Sistema web de busca de médicos por proximidade e especialidade, desenvolvido em PHP, integrando a API do Google Maps para localização e roteamento. O usuário pode visualizar médicos próximos a partir de sua localização, filtrar por especialidade e obter rotas até o consultório.
-
-Tecnologias utilizadas:
-PHP · HTML · CSS · MySQL · Google Maps API
-
-🔹 Mercadindin
+### 🔹 [Mercadindin](https://github.com/LucasPTe/mercadindin)  
 Aplicativo mobile desenvolvido com Ionic + Angular, voltado para o compartilhamento de promoções em mercados da Zona Norte do Rio de Janeiro. A proposta do app é funcionar como uma espécie de rede social de ofertas, onde os próprios usuários podem postar promoções que encontrarem — desde pequenos comércios de bairro até grandes redes.
 
 O objetivo é facilitar o acesso a preços mais baixos, promovendo colaboração entre os consumidores locais e contribuindo para o controle de compras domésticas e orçamento familiar.
+Aplicativo **mobile** feito com **Ionic + Angular + Firebase + Typescript**
 
-Funcionalidades principais:
+### 🔹 [Gerador de QR Code](https://github.com/LucasPTe/Gerador-Qr-Code)  
+Projeto em **Python + Streamlit** para gerar QR Codes de forma rápida e simples, com download direto da imagem.
 
-Feed de promoções por localidade
-
-Postagem de ofertas com foto e descrição
-
-Filtro por categorias de produtos e mercados
-
-Geolocalização das ofertas próximas
-
-Tecnologias utilizadas:
-Ionic · Angular · TypeScript · HTML · CSS · Firebase
-
-# Tecnologies
+# Ferramentas e Linguagens
 <div align="left">
   <img alt="Python" src="https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue">
   <img alt="Django" src="https://img.shields.io/badge/django-100000?style=for-the-badge&logo=django&logoColor=green">
